@@ -9,3 +9,7 @@
 .light {
     animation: rotate 15s infinite;
 }
+
+.star {
+    animation: glowing 2s infinite;
+}

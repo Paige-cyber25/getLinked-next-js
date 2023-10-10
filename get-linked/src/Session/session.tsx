@@ -6,6 +6,8 @@ import chainIcon from "../assets/images/chain.png";
 import fireIcon from "../assets/images/fire.png";
 import manOnGlasessIcon from "../assets/images/man.png";
 import lightIcon from "../assets/images/light.png";
+import whiteStarIcon from "../assets/images/white-star.png";
+import grayStarIcon from "../assets/images/gray-star.png";
 export function Session() {
   return (
     <div className="sm:mt-[200px] mt-[100px]">
@@ -80,6 +82,9 @@ export function Session() {
                 <img src={manOnGlasessIcon?.src} className="sm:max-w-[740px] absolute right-[0]" loading="eager"/>
                 <img src={lightIcon?.src} className="light z-[10] absolute sm:min-w-[660px] right-0" loading="eager"/>
             </div>
+                <img src={whiteStarIcon?.src} className="absolute star  top-[-10%] left-0 sm:max-w-[21px] max-w-[12px]"/>
+                <img src={grayStarIcon?.src} className="absolute star  top-[0] left-[45%] sm:max-w-[21px] max-w-[12px]"/>
+                <img src={grayStarIcon?.src} className="absolute star  bottom-[15%] left-[35%] sm:max-w-[21px] max-w-[12px]:max-w-[740px] absolute right-[0]" loading="eager"/>
           </section>
         </div>
       </div>
