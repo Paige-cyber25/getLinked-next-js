@@ -1,0 +1,21 @@
+.navbar {
+    font-family: Clash Display;
+    font-weight: 700;
+    background-color: transparent;
+    padding: 67px 128px 30px 128px;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    transition: background .3s ease-in-out;
+}
+
+.links {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.divider {
+    background: rgba(255, 255, 255, 0.18);
+    opacity: .3;
+}
