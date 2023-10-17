@@ -1,4 +1,5 @@
 import { Button } from "@/Button/button";
+import { Divider } from "@/Divider/divider";
 import "../Navbar/navbar.css";
 export function Navbar() {
   return (
@@ -22,7 +23,7 @@ export function Navbar() {
         </button>
       </nav>
 
-      <hr className="divider" />
+     <Divider />
     </div>
   );
 }

@@ -1,0 +1,21 @@
+.container {
+    animation-duration: 1000ms;
+    animation-timing-function: ease;
+    animation-delay: 0ms;
+    animation-name: animation-os2n7p;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+}
+
+.clash-text {
+    font-family: Clash Display;
+}
+
+.register-btn {
+    background: linear-gradient(270deg,#903aff,#d434fe 56.42%,#ff26b9 99.99%,#fe34b9);
+}
+
+.star {
+    animation: glowing 2s infinite;
+}

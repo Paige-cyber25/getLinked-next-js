@@ -20,4 +20,5 @@ body {
   color: rgb(var(--foreground-rgb));
   background: #150e28;
   zoom: 95.2381%;
+  scroll-behavior: smooth;
 }
