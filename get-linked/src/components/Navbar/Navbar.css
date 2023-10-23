@@ -14,3 +14,10 @@
     font-weight: 400;
     cursor: pointer;
 }
+
+.active-link {
+    font-weight: 700;
+    border-bottom: 2px solid #D434FE;
+    font-size: 18px;
+    scroll-behavior: smooth;
+}

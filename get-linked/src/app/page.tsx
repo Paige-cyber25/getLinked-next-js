@@ -1,9 +1,10 @@
-import { Navbar } from "@/Navbar/navbar";
-import { Session2 } from "@/Session2/session2";
-import { Session3 } from "@/Session3/session3";
-import { Session4 } from "@/Session4/session4";
-import { Session5 } from "@/Session5/session5";
-import { Session } from "../Session/session";
+import { Navbar } from "@/components/Navbar/Navbar";
+import { Session2 } from "@/components/Session2/Session2";
+import { Session3 } from "@/components/Session3/Session3";
+import { Session4 } from "@/components/Session4/Session4";
+import { Session5 } from "@/components/Session5/Session5";
+import { Timeline } from "@/components/Timeline/Timeline";
+import { Session } from "../components/Session/Session";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Session3 />
       <Session4 />
       <Session5 />
+      <Timeline />
     </div>
    
   )

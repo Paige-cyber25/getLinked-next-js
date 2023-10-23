@@ -1,7 +1,7 @@
-import lightBulb from "../assets/images/the-big-idea.png";
-import curlIcon from "../assets/images/curl.png";
-import purpleStar from "../assets/images/purple-star.png";
-import "../Session2/session2.css";
+import lightBulb from "../../assets/images/the-big-idea.png";
+import curlIcon from "../../assets/images/curl.png";
+import purpleStar from "../../assets/images/purple-star.png";
+import "./Session2.css";
 export function Session2() {
   return (
     <>

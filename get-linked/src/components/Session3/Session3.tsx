@@ -1,7 +1,7 @@
-import "../Session3/session3.css";
-import girlIcon from "../assets/images/girl-sitting.png";
-import whiteStarIcon from "../assets/images/white-star.png";
-import grayStarIcon from "../assets/images/gray-star.png";
+import "./Session3.css";
+import girlIcon from "../../assets/images/girl-sitting.png";
+import whiteStarIcon from "../../assets/images/white-star.png";
+import grayStarIcon from "../../assets/images/gray-star.png";
 export function Session3() {
   return (
     <div className="container">

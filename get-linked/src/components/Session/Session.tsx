@@ -1,14 +1,13 @@
-import { Button } from "@/Button/button";
-import "../Session/session.css";
-import arcIcon from "../assets/images/arc.svg";
-import bulbIcon from "../assets/images/bulb.png";
-import chainIcon from "../assets/images/chain.png";
-import fireIcon from "../assets/images/fire.png";
-import manOnGlasessIcon from "../assets/images/man.png";
-import lightIcon from "../assets/images/light.png";
-import whiteStarIcon from "../assets/images/white-star.png";
-import grayStarIcon from "../assets/images/gray-star.png";
-import { Divider } from "@/Divider/divider";
+import { Button } from "@/components/Button/Button";
+import "../Session/Session.css";
+import arcIcon from "../../assets/images/arc.svg";
+import bulbIcon from "../../assets/images/bulb.png";
+import chainIcon from "../../assets/images/chain.png";
+import fireIcon from "../../assets/images/fire.png";
+import manOnGlasessIcon from "../../assets/images/man.png";
+import lightIcon from "../../assets/images/light.png";
+import whiteStarIcon from "../../assets/images/white-star.png";
+import grayStarIcon from "../../assets/images/gray-star.png";
 export function Session() {
   return (
     <>
