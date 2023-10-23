@@ -1,8 +1,8 @@
-import "../Session4/session4.css";
-import purpleStar from "../assets/images/purple-star.png";
-import readerIcon from "../assets/images/observer.png";
-import whiteStarIcon from "../assets/images/white-star.png";
-import grayStarIcon from "../assets/images/gray-star.png";
+import "./Session4.css";
+import purpleStar from "../../assets/images/purple-star.png";
+import readerIcon from "../../assets/images/observer.png";
+import whiteStarIcon from "../../assets/images/white-star.png";
+import grayStarIcon from "../../assets/images/gray-star.png";
 export function Session4() {
   return (
     <div className="container">

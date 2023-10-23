@@ -1,11 +1,11 @@
-import '../Session5/session5.css';
-import thinkingIcon from "../assets/images/thinking.png";
-import questionIcon from "../assets/images/question_mark.png";
-import  Accordion  from '../shared/Accordion/Accordion';
+import './Session5.css';
+import thinkingIcon from "../../assets/images/thinking.png";
+import questionIcon from "../../assets/images/question_mark.png";
+import  Accordion  from '../../shared/Accordion/Accordion';
 
 export function Session5 () {
     return(
-        <div className='container'>
+        <div className='container' id='faq'>
             <section className=' relative sm:pt-[80px] pt-[62px] pb-[78px]  sm:pl-[8.47%] sm:pr-[3.64%] max-[620px]:px-[8.47%]  border-b-[1px] border-b-[#FFFFFF2E] flex sm:flex-row flex-col justify-between items-center'>
                 <div className='text-[#fff] sm:max-w-[50%]'>
                     <div className='flex mb-[68px]'>

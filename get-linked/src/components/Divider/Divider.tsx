@@ -1,4 +1,4 @@
-import '../Divider/divider.css';
+import './Divider.css';
 
 export function Divider() {
     return(
