@@ -1,4 +1,5 @@
 import { Navbar } from "@/components/Navbar/Navbar";
+import { Prizes } from "@/components/Prizes/Prizes";
 import { Session2 } from "@/components/Session2/Session2";
 import { Session3 } from "@/components/Session3/Session3";
 import { Session4 } from "@/components/Session4/Session4";
@@ -16,6 +17,7 @@ export default function Home() {
       <Session4 />
       <Session5 />
       <Timeline />
+      <Prizes />
     </div>
    
   )

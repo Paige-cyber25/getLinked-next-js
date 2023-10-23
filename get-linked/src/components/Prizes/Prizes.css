@@ -1,0 +1,27 @@
+.container {
+    animation-duration: 1000ms;
+    animation-timing-function: ease;
+    animation-delay: 0ms;
+    animation-name: animation-os2n7p;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-iteration-count: 1
+}
+
+.clash-text {
+    font-family: Clash Display;
+}
+
+.sub {
+    animation-duration: 1000ms;
+    animation-timing-function: ease;
+    animation-delay: 0ms;
+    animation-name: animation-2txazo;
+    animation-direction: normal;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+}
+
+.star {
+    animation: glowing 2s infinite;
+}
